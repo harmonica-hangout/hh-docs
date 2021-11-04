@@ -12,5 +12,5 @@
     - [Harpvard](https://harpvard.com/)
 
 - Russian
-    - [Harmonica.ru](https://harmonica.ru/)
+    - [Harmonica.ru](https://harmonica.ru/) by GreyWolf#5841
 
