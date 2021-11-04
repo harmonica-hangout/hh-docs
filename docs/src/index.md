@@ -1,15 +1,7 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Guides, FAQs, etc curated by the Harmonica Hangout community
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Jordon Baade with ❤️
----
+heroImage: /ms-icon-310x310.png
+tagline: Harmonica knowledge curated by the Harmonica Hangout Discord Community 
+actionText: Get Started →
+actionLink: /sitemap/
+footer: MIT Licensed | Created with ❤ by the Harmonica Hangout Discord Community
