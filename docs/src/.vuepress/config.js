@@ -18,7 +18,6 @@ module.exports = {
     editLinks: true,
     docsDir: 'docs/src',
     docsBranch: 'develop',
-    lastUpdated: true,
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -32,6 +31,7 @@ module.exports = {
     ],
     locales: {
         '/': {
+            lastUpdated: true,
             label: 'English',
             repoLabel: 'Contribute!',
             editLinkText: 'Help improve this page!',

@@ -3,12 +3,11 @@
 ## Site Content
 
 - [FAQ](/faq/)
-- [Terminology](/terminology/)
+- [Terminology](/terms/)
 - [Links & Resources](/links/)
     - [Buy Gear](/links/buy-gear)
-    - [Paid Courses](/links/learn-paid/)
+    - [Learn Paid](/links/learn-paid/)
     - [Learn Free](/links/learn-free/)
-    - [Play Along](/links/play-along/)
     - [Communities](/links/communities/)
     - [Misc](/links/misc/)
 
