@@ -12,5 +12,4 @@
     - [Harpvard](https://harpvard.com/)
 
 - Russian
-    - [Harmonica.ru](https://harmonica.ru/) by GreyWolf#5841
-
+    - [Harmonica.ru](https://harmonica.ru/) <Badge text="by GreyWolf#5841"/>

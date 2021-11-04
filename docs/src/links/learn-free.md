@@ -50,8 +50,8 @@
 
 ## Harmonica Software
 
-- [Harmonica Position Layout Explorer](https://www.harmonica.dev/position-layout-explorer/) by bpwnd#0061
-- [Harmonica Tab Transposer](https://seebass22.itch.io/harmonica-tab-transposer) by Seebass22#4468
+- [Harmonica Position Layout Explorer](https://www.harmonica.dev/position-layout-explorer/) <Badge text="by bpwnd#0061"/>
+- [Harmonica Tab Transposer](https://seebass22.itch.io/harmonica-tab-transposer) <Badge text="by Seebass22#4468"/>
 - [Bend It Better](https://www.harmonica.com/bend-it-better-the-free-tool-that-helps-you-bend-harmonica-in-tune-57462.html)
 - [Seydel Tabtool](https://www.seydel1847.de/epages/Seydel1847.sf/en_US/?ObjectPath=/Shops/Seydel/Categories/Configurator/Config_Welcome/TabTool-Online)
 - [Bluedadi Harmonica Recording Software](https://www.bluesharmonica.com/bluedadi_harmonica_recording_software)

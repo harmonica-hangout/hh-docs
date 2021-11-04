@@ -21,5 +21,5 @@
 
 ## Harmonica Software
 
-- [Harp Guru Android](https://play.google.com/store/apps/details?id=com.jslog.harpguru&hl=en_US&gl=US) / [iOS](https://apps.apple.com/ca/app/harp-guru/id1552752923) by harp-guru#8456
+- [Harp Guru Android](https://play.google.com/store/apps/details?id=com.jslog.harpguru&hl=en_US&gl=US) / [iOS](https://apps.apple.com/ca/app/harp-guru/id1552752923) <Badge text="by harp-guru#8456"/>
 - [Harping Midi](http://www.harpingmidi.com/)
