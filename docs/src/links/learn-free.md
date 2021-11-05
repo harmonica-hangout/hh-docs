@@ -51,10 +51,20 @@
 ## Harmonica Software
 
 - [Harmonica Position Layout Explorer](https://www.harmonica.dev/position-layout-explorer/) <Badge text="by bpwnd#0061"/>
+
+Visualize the layout of the diatonic harmonica and highlight scales or chords.
 - [Harmonica Tab Transposer](https://seebass22.itch.io/harmonica-tab-transposer) <Badge text="by Seebass22#4468"/>
+
+Transpose diatonic harmonica tabs to different positions and tunings. Use the virtual tab keyboard for quick tab input. Can list all positions that a tab can be played in without overblows or without bends.
 - [Bend It Better](https://www.harmonica.com/bend-it-better-the-free-tool-that-helps-you-bend-harmonica-in-tune-57462.html)
+
+A tool to help you bend in tune.
 - [Seydel Tabtool](https://www.seydel1847.de/epages/Seydel1847.sf/en_US/?ObjectPath=/Shops/Seydel/Categories/Configurator/Config_Welcome/TabTool-Online)
+
+Seydel's tab transposing tool. Can output note names instead of tabs and also supports chromatic harmonica.
 - [Bluedadi Harmonica Recording Software](https://www.bluesharmonica.com/bluedadi_harmonica_recording_software)
+
+All in one digital amp with pedals and many presets, plus recording.
 
 ## Find Harmonica Tabs
 
