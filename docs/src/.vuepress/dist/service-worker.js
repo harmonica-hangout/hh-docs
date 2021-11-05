@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e3e6c7dcd235e00b29f50711c4b004d2"
+    "revision": "c006000db8dcf259a922ecb3ed939c07"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "c960cd0035676c247c571c22faa24b6f"
   },
   {
-    "url": "assets/js/11.1b201843.js",
-    "revision": "811ce786ad5de52469c955ef7eaa3d1b"
+    "url": "assets/js/11.7785a58e.js",
+    "revision": "d9251d2dfc0cbd65e12d83d95f346094"
   },
   {
-    "url": "assets/js/12.2d6a38df.js",
-    "revision": "ff1b417bed3385a7823f0fa7e2cbafe6"
+    "url": "assets/js/12.94baf32d.js",
+    "revision": "2397d8d746db651fd71ed338ca80d11c"
   },
   {
     "url": "assets/js/13.6917db8b.js",
@@ -138,32 +138,32 @@ self.__precacheManifest = [
     "revision": "7e34fa6eaaa75e6fab397794d4c55c66"
   },
   {
-    "url": "assets/js/15.822f337f.js",
-    "revision": "040831f9d0e4d611cdf00fb03850831b"
+    "url": "assets/js/15.a3b5c3c4.js",
+    "revision": "27fa58b7281ef6fa592077c17eca3a25"
   },
   {
-    "url": "assets/js/16.3c089496.js",
-    "revision": "c631ede59b9d634ca533b60bffc5445a"
+    "url": "assets/js/16.8d6f4aee.js",
+    "revision": "e62556465ebd293b6b0e8635d8beff5a"
   },
   {
-    "url": "assets/js/17.7a0b1875.js",
-    "revision": "a5c3f5f2724eee38a1cc8eeed6345c58"
+    "url": "assets/js/17.98fe910a.js",
+    "revision": "09c04b99d99b057d659408fbec6b6c9e"
   },
   {
-    "url": "assets/js/18.50d2f070.js",
-    "revision": "46632c8e3d2250f599964ad593847674"
+    "url": "assets/js/18.d582eb32.js",
+    "revision": "c6f012aed9545b9928d058feecebdb2c"
   },
   {
-    "url": "assets/js/19.8e89e128.js",
-    "revision": "ef1b615e70295043c213c07b2e7707fa"
+    "url": "assets/js/19.1d5a3420.js",
+    "revision": "298765a58a6f8ad6c987691a7a4a43b4"
   },
   {
     "url": "assets/js/2.ef8975e0.js",
     "revision": "a63ea68fa8461306716dcaa26c58d9b1"
   },
   {
-    "url": "assets/js/20.244e2f45.js",
-    "revision": "58ef2a71dd2ada306de3a8d9e634a118"
+    "url": "assets/js/20.5a41e428.js",
+    "revision": "f948fdedf1db4dc89593c486d242fb96"
   },
   {
     "url": "assets/js/21.d1ae6f4c.js",
@@ -206,20 +206,20 @@ self.__precacheManifest = [
     "revision": "48493b89e065c54d7b3df5f6dfdd0f59"
   },
   {
-    "url": "assets/js/app.ddabf82a.js",
-    "revision": "fca8c6ea7d1f1c58e7dc0cec2b685134"
+    "url": "assets/js/app.2db9a1bb.js",
+    "revision": "de1cf27c90ef6dc183bb3aa151691e8f"
   },
   {
     "url": "contribute-content/index.html",
-    "revision": "d6d2878f46709d7a294fa3ab3711201b"
+    "revision": "086bb54391defac3f733d201bb9c9664"
   },
   {
     "url": "contribute-translations/index.html",
-    "revision": "e2103ff9c87545c3cfb103cc6419f0ce"
+    "revision": "73947ca231a8925ca2db93a97aad3308"
   },
   {
     "url": "faq/index.html",
-    "revision": "ec2688ca02313768c7379602016fd0ae"
+    "revision": "f2e1134729158147658f127b7140218d"
   },
   {
     "url": "favicon-16x16.png",
@@ -235,31 +235,31 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ac67aa020ad27aee4e6207e5153a53c1"
+    "revision": "d9177b97653e9c697f6d3723a6050bce"
   },
   {
     "url": "links/buy-gear.html",
-    "revision": "c8c3882b1125df1e2bb58ff86d704f1c"
+    "revision": "b92796b84e04612b54f0b441f01de39e"
   },
   {
     "url": "links/communities.html",
-    "revision": "fffb9430f91eb9c31c85d351e2343d99"
+    "revision": "a665ea96cac921b21e93984ad5ac29c1"
   },
   {
     "url": "links/index.html",
-    "revision": "e143cd910dd1d189397b0321d5710c5c"
+    "revision": "c99c167e2e333a5ba72bb3f6003a3a19"
   },
   {
     "url": "links/learn-free.html",
-    "revision": "f7968a0aa949b7c140f63f95230c7984"
+    "revision": "84f264aa4a32e8e5b0b3f2d1387a3947"
   },
   {
     "url": "links/learn-paid.html",
-    "revision": "e6a6440a48841c828c57ac81b6595766"
+    "revision": "84b6a2f0490d552415f1b5667d4fdc01"
   },
   {
     "url": "links/misc.html",
-    "revision": "355c0314f7e2159af2f21fa7a549fcde"
+    "revision": "10b22a80f44b083946c90d1e21cf5852"
   },
   {
     "url": "ms-icon-144x144.png",
@@ -283,11 +283,11 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "e5033a22517b5a64c25bb53c7bde8cd3"
+    "revision": "99ba9807a2a12b7d00256351db576850"
   },
   {
     "url": "terms/index.html",
-    "revision": "d8ca9b7bd1b5436716c336028d76fed9"
+    "revision": "a736f596ef69ea293d58b6b3653c4f3b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
