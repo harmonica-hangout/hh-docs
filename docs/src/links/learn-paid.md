@@ -24,5 +24,4 @@
 - [Harp Guru Android](https://play.google.com/store/apps/details?id=com.jslog.harpguru&hl=en_US&gl=US) / [iOS](https://apps.apple.com/ca/app/harp-guru/id1552752923) <Badge text="by harp-guru#8456"/>
 
 Demystify all of your harmonica's, build an intuitive knowledge of the whole harp, and support deep explorations of any concept with rich and engaging interactive visual models.
-
 - [Harping Midi](http://www.harpingmidi.com/)
